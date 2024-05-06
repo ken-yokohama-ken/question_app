@@ -1,0 +1,15 @@
+init:
+  excel_dir: ./contents
+
+data_structure:
+  title_key: title
+  question_key: question
+  answer_key: answer
+  solution_key: solution
+  candidate_key: candidate
+  figure_key: figure
+
+visualization:
+  type: one_page # one_page or pages
+  random_question: False # questions are revealed randomly
+
